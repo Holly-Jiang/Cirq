@@ -119,6 +119,7 @@ from cirq.linalg import (
     CONTROL_TAG,
     diagonalize_real_symmetric_and_sorted_diagonal_matrices,
     diagonalize_real_symmetric_matrix,
+    deconstruct_single_qubit_matrix_into_angles,
     dot,
     expand_matrix_in_orthogonal_basis,
     hilbert_schmidt_inner_product,
